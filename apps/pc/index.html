@@ -1,0 +1,77 @@
+<html lang="en">   
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="x-ua-compatible" content="ie=edge">
+		<title>COMPUTER</title>
+		<meta name="description" content="">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		
+		<link rel="apple-touch-icon" href="apple-touch-icon.png">
+		<!-- Place favicon.ico in the root directory -->
+		<link rel="stylesheet" href="css/normalize.css">
+		<link rel="stylesheet" href="css/main.css">
+		<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300|Roboto+Mono:100|Roboto:100&amp;subset=latin-ext" rel="stylesheet"> 
+		<script src="/vendor/jquery/jquery-2.0.3.min.js"></script>
+		<script src="/pengine/pengines.js"></script>
+	    	<script>
+		        var pengine;
+			function query() {
+	    			pengine = new Pengine({
+	    		        ask: $("#query").val(),
+	    		        onsuccess: handleSuccess,
+	    		        onfailure: handleFailure,
+	    		        onerror:   handleError,
+	    		        src: $("#src").val()
+    				    });
+			}
+			function handleSuccess() {
+			        var solution = JSON.stringify(this.data);
+				write(solution);
+				if (!this.more) {
+					write("No more solutions");
+				}
+			}
+			function handleFailure() {
+				write("Failed");;
+			}
+			function handleError() {
+				write(this.data);
+			}
+			function write(string) {
+				$('#output').append(string + "<br />")
+			}
+		</script>
+	</head>
+
+
+
+<body>
+	<center>
+		<img align="center" width="50px" src="images/pclogo-svg.svg"/>
+		<h1>https://prolog.computer</h1>
+		<textarea id="src" rows="14">
+ancestor_of(X, Y) :- parent_of(X, Y).
+ancestor_of(X, Z) :- parent_of(X, Y), ancestor_of(Y, Z).
+
+parent_of(X, Y) :- father_of(X, Y).
+parent_of(X, Y) :- mother_of(X, Y).
+
+mother_of(trude, sally).
+
+father_of(tom, sally).
+father_of(tom, erica).
+father_of(mike, tom).
+</textarea>
+		<h3>Query</h3>
+		<input type="text" id="query" value="ancestor_of(X, Y)"/>
+		<h3>Control</h3>
+		<button onclick="query()">First</button>
+		<button onclick="pengine.next()">Next</button>
+		<button onclick="pengine.stop()">Stop</button>
+		<button onclick="pengine.abort()">Abort</button>
+		<button onclick="$('#output').html('')">Clear output</button>
+		<h3>Output</h3>
+		<div id="output"></div>
+</center>
+	</body>
+</html>

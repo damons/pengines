@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 384 81" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:square;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-19.7758,-202.163)">
+        <text x="28.936px" y="224.908px" style="font-family:'RobotoMono-Light', 'Roboto Mono';font-weight:300;font-size:20px;fill:white;">PROLOG.COMPUTER</text>
+    </g>
+    <g transform="matrix(1.43667,0,0,0.307895,765.661,-64.1291)">
+        <g transform="matrix(0.696056,0,0,3.24786,-452.107,121.089)">
+            <g id="URI">
+                <text x="28.732px" y="96.33px" style="font-family:'RobotoMono-Thin', 'Roboto Mono';font-weight:250;font-size:14px;fill:white;">†:2bbqwpd4e7346vnc/</text>
+            </g>
+        </g>
+        <g transform="matrix(0.696056,0,0,3.24786,-639.051,253.193)">
+            <text x="452.038px" y="56.789px" style="font-family:'RobotoMono-Bold', 'Roboto Mono';font-weight:700;font-size:24px;fill:white;">T<tspan x="467.64px 483.243px 498.845px 514.447px " y="56.789px 56.789px 56.789px 56.789px ">EACH</tspan></text>
+        </g>
+    </g>
+    <g transform="matrix(1.00703,0,0,1.02125,78.1841,30.2679)">
+        <text x="0px" y="5.25px" style="font-family:'RobotoMono-Regular', 'Roboto Mono';font-size:7px;fill:white;">SWI-Prºlºg versiºn 7.5.10</text>
+    </g>
+    <g transform="matrix(1.59106,0,0,1,-53.1081,-8.88768)">
+        <path d="M34.512,54.936L273.347,54.936" style="fill:none;stroke:white;stroke-width:1.51px;"/>
+    </g>
+    <g transform="matrix(1.59106,0,0,1,-53.1081,24.1123)">
+        <path d="M34.512,54.936L273.347,54.936" style="fill:none;stroke:white;stroke-width:1.51px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1.31665,80.4719,-23.6498)">
+        <path d="M113.626,52.936L113.626,19.331" style="fill:none;stroke:white;stroke-width:1.71px;"/>
+    </g>
+    <g transform="matrix(1,0,0,0.929796,12.4719,28.0739)">
+        <path d="M113.626,52.936L113.626,19.331" style="fill:none;stroke:white;stroke-width:2.07px;"/>
+    </g>
+    <g transform="matrix(1,0,0,2.29866,268.472,-42.6334)">
+        <path d="M113.626,52.936L113.626,19.331" style="fill:none;stroke:white;stroke-width:1.13px;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,-205.374,53.5717)">
+        <path d="M220.335,8.821L223.772,-0.007L227.538,-0.007L227.538,18.196L224.788,18.196L224.788,3.211L221.382,13.227L219.335,13.227L215.804,3.43L215.804,18.196L213.054,18.196L213.054,-0.007L216.929,-0.007L220.335,8.821Z" style="fill:white;"/>
+        <path d="M244.913,9.977L235.913,9.977L235.913,15.836L246.382,15.836L246.382,18.196L232.96,18.196L232.96,-0.007L246.288,-0.007L246.288,2.383L235.913,2.383L235.913,7.602L244.913,7.602L244.913,9.977Z" style="fill:white;"/>
+        <path d="M265.272,18.196L262.585,18.196L254.757,4.508L254.835,18.196L252.069,18.196L252.069,-0.007L254.788,-0.007L262.616,13.696L262.522,-0.007L265.272,-0.007L265.272,18.196Z" style="fill:white;"/>
+        <path d="M285.882,2.383L279.241,2.383L279.241,18.196L276.304,18.196L276.304,2.383L269.694,2.383L269.694,-0.007L285.882,-0.007L285.882,2.383Z" style="fill:white;"/>
+        <path d="M304.601,9.633C304.59,10.779 304.426,11.883 304.108,12.946C303.791,14.008 303.317,14.946 302.687,15.758C302.056,16.571 301.272,17.222 300.335,17.711C299.397,18.201 298.304,18.446 297.054,18.446C295.814,18.446 294.726,18.201 293.788,17.711C292.851,17.222 292.064,16.568 291.429,15.75C290.793,14.933 290.312,13.993 289.983,12.93C289.655,11.868 289.486,10.769 289.476,9.633L289.476,8.586C289.486,7.451 289.653,6.352 289.976,5.29C290.298,4.227 290.778,3.284 291.413,2.461C292.048,1.638 292.835,0.98 293.772,0.485C294.71,-0.01 295.798,-0.257 297.038,-0.257C298.288,-0.257 299.384,-0.013 300.327,0.477C301.27,0.967 302.056,1.62 302.687,2.438C303.317,3.256 303.791,4.198 304.108,5.266C304.426,6.334 304.59,7.441 304.601,8.586L304.601,9.633ZM301.741,8.555C301.731,7.816 301.645,7.066 301.483,6.305C301.322,5.545 301.059,4.86 300.694,4.25C300.33,3.641 299.848,3.144 299.249,2.758C298.65,2.373 297.913,2.18 297.038,2.18C296.163,2.18 295.429,2.375 294.835,2.766C294.241,3.157 293.759,3.659 293.39,4.274C293.02,4.888 292.754,5.573 292.593,6.329C292.431,7.084 292.345,7.826 292.335,8.555L292.335,9.633C292.345,10.373 292.434,11.12 292.601,11.875C292.767,12.631 293.035,13.318 293.405,13.938C293.775,14.558 294.257,15.063 294.851,15.454C295.444,15.844 296.179,16.04 297.054,16.04C297.939,16.04 298.681,15.844 299.28,15.454C299.879,15.063 300.358,14.56 300.718,13.946C301.077,13.331 301.335,12.644 301.491,11.883C301.647,11.123 301.731,10.373 301.741,9.633L301.741,8.555Z" style="fill:white;"/>
+        <path d="M316.163,11.18L311.788,11.18L311.788,18.196L308.897,18.196L308.897,-0.007L315.554,-0.007C316.429,0.003 317.285,0.112 318.124,0.321C318.963,0.529 319.707,0.857 320.358,1.305C321.009,1.753 321.53,2.326 321.921,3.024C322.312,3.722 322.507,4.566 322.507,5.555C322.507,6.211 322.413,6.79 322.226,7.29C322.038,7.79 321.778,8.235 321.444,8.625C321.111,9.016 320.718,9.36 320.265,9.657C319.812,9.954 319.325,10.217 318.804,10.446L323.335,18.04L323.335,18.196L320.226,18.196L316.163,11.18ZM311.788,8.821L315.632,8.821C316.121,8.81 316.603,8.743 317.077,8.618C317.551,8.493 317.973,8.303 318.343,8.047C318.713,7.792 319.015,7.469 319.249,7.079C319.483,6.688 319.601,6.217 319.601,5.665C319.601,5.081 319.489,4.584 319.265,4.172C319.041,3.761 318.741,3.425 318.366,3.165C317.991,2.904 317.559,2.711 317.069,2.586C316.58,2.461 316.075,2.394 315.554,2.383L311.788,2.383L311.788,8.821Z" style="fill:white;"/>
+    </g>
+    <g transform="matrix(1,0,0,1,1,5.95031)">
+        <g transform="matrix(1,0,0,1,136.517,-19.2414)">
+            <text x="205.77px" y="33.359px" style="font-family:'SourceCodePro-Regular', 'Source Code Pro', monospace;font-size:9.697px;fill:white;">PEERS</text>
+        </g>
+        <g transform="matrix(1,0,0,1,127,-1.60175)">
+            <text x="213.029px" y="30.239px" style="font-family:'RobotoMono-Medium', 'Roboto Mono';font-weight:500;font-size:8px;fill:white;">7 of 34</text>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,1,5.49425)">
+        <g transform="matrix(1,0,0,1,96.0745,-19.2414)">
+            <text x="205.77px" y="33.359px" style="font-family:'SourceCodePro-Regular', 'Source Code Pro', monospace;font-size:9.697px;fill:white;">WORDS</text>
+        </g>
+        <g transform="matrix(1,0,0,1,92.1585,-1.05097)">
+            <text x="213.029px" y="30.239px" style="font-family:'RobotoMono-Medium', 'Roboto Mono';font-weight:500;font-size:9.333px;fill:white;">3142</text>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,1,5.25499)">
+        <g transform="matrix(1,0,0,1,42.5612,4.46168)">
+            <text x="212.706px" y="9.656px" style="font-family:'SourceCodePro-Regular', 'Source Code Pro', monospace;font-size:9.697px;fill:white;">BOOKS</text>
+        </g>
+        <g transform="matrix(1,0,0,1,48.3824,-0.572453)">
+            <text x="213.029px" y="30.239px" style="font-family:'RobotoMono-Medium', 'Roboto Mono';font-weight:500;font-size:9.333px;fill:white;">733</text>
+        </g>
+    </g>
+    <g transform="matrix(1,0,0,1,1,5)">
+        <g transform="matrix(1,0,0,1,-85.912,2.90962)">
+            <text x="288.785px" y="11.208px" style="font-family:'SourceCodePro-Regular', 'Source Code Pro', monospace;font-size:9.697px;fill:white;">PAPERS</text>
+        </g>
+        <g transform="matrix(1,0,0,1,-3.90368,-0.0624667)">
+            <text x="213.029px" y="30.239px" style="font-family:'RobotoMono-Medium', 'Roboto Mono';font-weight:500;font-size:9.333px;fill:white;">3142</text>
+        </g>
+    </g>
+</svg>
